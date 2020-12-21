@@ -21,7 +21,7 @@
 title: the whole cell
 email: kelly.eckenrode@sph.cuny.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about a microbiologist learning bioinformatics in R. If you are contemplating adding using R in your daya analysis pipeline, you can find the first steps documented here. 
+  A blog from a microbiologist learning bioinformatics in R. If you are contemplating adding using R in your daya analysis pipeline, you can find the first steps documented here. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kelly_thinks
