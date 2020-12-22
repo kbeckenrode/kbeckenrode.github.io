@@ -1,0 +1,14 @@
+---
+title: "Hi, I'm new here"
+author: "Kelly Eckenrode"
+date: "12/21/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Where to start when your new to data
+
+As a first step in my journey from pipette jockey to data wrangler, I needed to learn some basic concepts about what is data, how is stored, and the main goals of data modeling.
