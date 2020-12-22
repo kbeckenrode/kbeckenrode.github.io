@@ -6,6 +6,6 @@ date:   <%= Time.now.strftime('%Y-%m-%d %H:%M:%S %z') %>
 ---
 
 
-## Where to start when your new to data
+## Where to start when you're new to data
 
 As a first step in my journey from pipette jockey to data wrangler, I needed to learn some basic concepts about what is data, how is stored, and the main goals of data modeling.
