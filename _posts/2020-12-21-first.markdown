@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Hi, I'm new here"
-author: "Kelly Eckenrode"
 date:   <%= Time.now.strftime('%Y-%m-%d %H:%M:%S %z') %>
+category: data basics
+
 ---
 
 
