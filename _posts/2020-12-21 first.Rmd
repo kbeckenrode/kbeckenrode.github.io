@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "Hi, I'm new here"
 author: "Kelly Eckenrode"
 date: "12/21/2020"
-output: html_document
 ---
 
 ```{r setup, include=FALSE}
