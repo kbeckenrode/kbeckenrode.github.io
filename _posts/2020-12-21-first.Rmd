@@ -2,7 +2,7 @@
 layout: post
 title: "Hi, I'm new here"
 author: "Kelly Eckenrode"
-date: "12/21/2020"
+date:   <%= Time.now.strftime('%Y-%m-%d %H:%M:%S %z') %>
 ---
 
 ```{r setup, include=FALSE}
