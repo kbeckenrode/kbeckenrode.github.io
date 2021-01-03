@@ -1,4 +1,12 @@
 
+---
+layout: post
+title: "Introduction to Bioinformatics"
+date:   2020-12-21
+category: data basics
+
+---
+
 # Introduction into Bioinfomatics
 
 **Bioinformatics** is a type of biology that studies the patterns of genomic sequences of DNA, RNA, and proteins. If these are new concepts to you, 
