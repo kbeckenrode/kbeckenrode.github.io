@@ -20,11 +20,17 @@ Simply, genomics data comes from labs. Genomic data is derived either from exper
 What's so exciting about bioinformatics is **you don't need a lab to access genomic data**. Many datasets are publically available online repositories, such as 
 
 -[NCBI Genomic Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/)
+
 -[The Cancer Genome Atlas](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)
+
 -[NCBI GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
+
 -[International Cancer Genome Consortium](https://daco.icgc.org/)
+
 -[cBioPortal](http://cbioportal.org)
+
 -[Cancer Cell Line Encyclopedia](https://portals.broadinstitute.org/ccle/)
+
 -[ENCODE, Encyclopedia of DNA Elements](https://www.encodeproject.org/)
 
 The repositories are either government funded or privately funded, but they all are free to download data. Where data is stored largely depends on the size of the data. It can be stored either locally, cloud computing or deposited into large data storing initatives, like in the list above. Where data is stored depends on whether data is published and/or contains sensitive patient information. 
