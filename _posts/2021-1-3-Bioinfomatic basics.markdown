@@ -1,11 +1,11 @@
-
 ---
 layout: post
 title: "Introduction to Bioinformatics"
-date: 2021-1-4
+date:  2021-1-4
 category: data basics
 
 ---
+
 
 # Introduction into Bioinfomatics
 
