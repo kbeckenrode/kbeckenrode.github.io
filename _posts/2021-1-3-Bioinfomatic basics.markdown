@@ -35,8 +35,15 @@ What's so exciting about bioinformatics is **you don't need a lab to access geno
 
 The repositories are either government funded or privately funded, but they all are free to download data. Where data is stored largely depends on the size of the data. It can be stored either locally, cloud computing or deposited into large data storing initatives, like in the list above. Where data is stored depends on whether data is published and/or contains sensitive patient information. 
 
-# How data is stored
+# How to store and open genomic data
 
+Data is stored either in file, database or an online application (API). A few typical file formats are plain text, tab-delimited format (.txt), binary files (.BAM), web-based markup language (.xml), and many more. 
 
+Sequence files are imported into a platform for visualization and analysis. 
+
+If you want to **visualize** sequences, you can use a genome browser like [ENSEMBL](https://useast.ensembl.org/index.html), [UCSC Genome Browser](https://genome.ucsc.edu/), [NCBI Genome Data Viewer](https://www.ncbi.nlm.nih.gov/genome/gdv/), and [3D Genome Browser for exploring chromatin interactions](http://3dgenome.fsm.northwestern.edu/). Genome browsers are very useful, but limited in analytical power. For deeper bioinfomatic **analysis**, one must make use of programming languages like R, Python, and Unix. In this blog, I'll be describing operations in R. 
+
+# The future of genomic data storage
+[The average human genome is about 100GB of storage space](https://www.technologyrecord.com/Article/microsoft-genomics-service-launched-to-accelerate-healthcare-innovation-63673)
 
  
