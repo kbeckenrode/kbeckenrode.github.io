@@ -57,6 +57,11 @@ layout: default
     {%- endif %}
 
   {%- endif -%}
+  
+  {% for post in site.posts %}
+  <img src="{% post.feature_img %}" />
+{% endfor %}
+```
 
 </div>
 © 2020 GitHub, Inc.
