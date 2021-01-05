@@ -7,6 +7,23 @@ category: data basics
 ---
 
 
-## Where to start when you're new to data
+# Started from bacteria, now we are here
 
-As a first step in my journey from pipette jockey to data wrangler, I needed to learn some basic concepts about what is data, how is stored, and the main goals of data modeling.
+My journey from pipette jockey to data wrangler started at [Hagerstown Community College](https://www.hagerstowncc.edu/) in Maryland. I was a first year nursing student taking Anatomy and Physiology, and the first week of material was "biochemistry of cells" where we learned about the building blocks of cells. I was fascinated by itty bitty molecular motors, concentration gradients, action potentials--all of the tiny mechanisms that fuel life. 
+
+So, when the class moved beyond cells, I was sad. Later, I talked to my professor, Professor Bidle, and asked if it was weird that I liked only the first week of nursing school. She said, "Kelly, I don't think you want to be a nurse. I think you want to be a scientist". 
+
+To be honest, **I didn't know being a scientist was a real job**. I only knew scientists from comic books as evil villians or impossibly brilliant scholars. 
+
+The next semester, I took Microbiology and I was sold that studying the life of cells was more than worth my time. ~~Maybe I am a brilliant scholar.~~ Maybe I am evil villian.[^1]
+
+I transferred to [University of Massachusetts Boston](https://www.umb.edu/) and graduated with a BS in Molecular Biology. Summer after graduation, I started a job as a research technician at Harvard Medical School, Department of Systems Biology with [Angela DePace](https://depace.med.harvard.edu/). I took a deep technical dive into learning how a lab operates all while learning more about the transcriptional regulatory elements and their role in development. The DePace lab cultivated my desire to lead my own research, so I decided to go to graduate school at the City University of New York (CUNY). 
+
+I worked with [Nicolas Biais](http://www.mechano-micro-biology.org/) to research the role of physical forces on physiology in bacterial biofilms (manuscript pending!). Most, if not all, bacteria form aggregates and live in clusters. We believe that engaging in the formation of aggregates creates force upon the cells, and therefore, changes the global physiology of cells. 
+
+Essentially, [bacteria know that it takes a village](https://en.wikipedia.org/wiki/It_takes_a_village#:~:text=%22It%20takes%20a%20village%20to,a%20safe%20and%20healthy%20environment) to survive. 
+
+After graduating in 2019, I started my postdoctoral training with [Levi Waldron](https://waldronlab.io/) because I wanted to gain more analytical power in bioinformatics to understand more about microbes, especially bacteria in microbiomes. My desire to learn (and teach) is what motivates me to share my journey from bench to bioinfomatics. 
+
+
+[^1] I later learned that being both an scientist and evil villian is too much of a workload, which is why you can't be both. 
