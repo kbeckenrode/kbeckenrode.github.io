@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction to Bioinformatics"
+title: "Bioinfomatic basics: where to get data"
 date:  2021-1-4
 category: data basics
 
