@@ -2,7 +2,7 @@
 layout: post
 title: "Hi, I'm new here"
 date:   2021-1-3
-featured_img: /img/600926_705812240200_1367126397_n.jpg
+featured_img: https://scontent-lga3-2.xx.fbcdn.net/v/t1.0-9/29512481_10100390149125570_5374232527176629474_n.jpg?_nc_cat=104&ccb=2&_nc_sid=19026a&_nc_ohc=rWTyxdN6A2UAX8-GXpJ&_nc_ht=scontent-lga3-2.xx&oh=1e3e1aad84e572b745fe984ffef671fc&oe=601C3EE7
 
 ---
 
