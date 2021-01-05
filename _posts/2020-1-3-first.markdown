@@ -9,6 +9,8 @@ featured_img: /img/600926_705812240200_1367126397_n.jpg
 
 # Started from bacteria, now we are here
 
+![my first image processed clump of bacteria](https://scontent-lga3-2.xx.fbcdn.net/v/t1.0-9/29512481_10100390149125570_5374232527176629474_n.jpg?_nc_cat=104&ccb=2&_nc_sid=19026a&_nc_ohc=rWTyxdN6A2UAX8-GXpJ&_nc_ht=scontent-lga3-2.xx&oh=1e3e1aad84e572b745fe984ffef671fc&oe=601C3EE7)
+
 My journey from pipette jockey to data wrangler started at [Hagerstown Community College](https://www.hagerstowncc.edu/) in Maryland. I was a first year nursing student taking Anatomy and Physiology, and the first week of material was "biochemistry of cells" where we learned about the building blocks of cells. I was fascinated by itty bitty molecular motors, concentration gradients, action potentials--all of the tiny mechanisms that fuel life. 
 
 So, when the class moved beyond cells, I was sad. Later, I talked to my professor, Professor Bidle, and asked if it was weird that I liked only the first week of nursing school. She said, "Kelly, I don't think you want to be a nurse. I think you want to be a scientist". 
