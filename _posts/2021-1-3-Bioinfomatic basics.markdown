@@ -7,14 +7,14 @@ category: data basics
 ---
 
 
-# Introduction into Bioinfomatics
+## What is bioinfomatics
 
-**Bioinformatics** is a type of biology that studies the patterns of genomic sequences of DNA, RNA, and proteins in animal, bacterial or viral organisms. 
+**Bioinformatics is a type of biology that studies the patterns of genomic sequences** of DNA, RNA, and proteins in animal, bacterial or viral organisms. 
 Bioinfomatics discoveres how genomic codes produce functional output in cells. How different layers of genetic codes relate to each other. How are these codes responsible for development, age and disease? If these are new concepts to you, I suggest reading the [NIH Human Genome Introduction](https://www.genome.gov/About-Genomics/Introduction-to-Genomics) to learn how these molecules are composed of repeating strucutures producing a genetic codes
 
 Genomic infomation is handy for understanding the inner working of cells, but also to intentify organisms in a mixed population. This is especially relevant to describing microbiomes which are composed of hundreds of different species of [microbes](https://en.wikipedia.org/wiki/Microorganism). 
 
-# Where does the data come from? 
+# Where does genomic data come from? 
 Simply, genomics data comes from labs. Genomic data is derived either from experimental trials, like measuring the mRNA after a chemical treatment, or directly from patients samples, which can be used to understand the genetic contribution to pathology. 
 
 What's so exciting about bioinformatics is **you don't need a lab to access genomic data**. Many datasets are publically available online repositories, such as 
@@ -44,6 +44,5 @@ Sequence files are imported into a platform for visualization and analysis.
 If you want to **visualize** sequences, you can use a genome browser like [ENSEMBL](https://useast.ensembl.org/index.html), [UCSC Genome Browser](https://genome.ucsc.edu/), [NCBI Genome Data Viewer](https://www.ncbi.nlm.nih.gov/genome/gdv/), and [3D Genome Browser for exploring chromatin interactions](http://3dgenome.fsm.northwestern.edu/). Genome browsers are very useful, but limited in analytical power. For deeper bioinfomatic **analysis**, one must make use of programming languages like R, Python, and Unix. In this blog, I'll be describing operations in R. 
 
 # The future of genomic data storage
-[The average human genome is about 100GB of storage space](https://www.technologyrecord.com/Article/microsoft-genomics-service-launched-to-accelerate-healthcare-innovation-63673)
-
+[The average human genome is about 100GB of storage space](https://www.technologyrecord.com/Article/microsoft-genomics-service-launched-to-accelerate-healthcare-innovation-63673) and typically larger because of neccessary associated files, like experimental metadata and sequence corrections. [By 2025, researchers predict that 100 million - 2 billion human genomes will be sequenced.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002195). The future of genomic data storage is an active field of development with many technology companies hedging their bets on cloud computing. 
  
