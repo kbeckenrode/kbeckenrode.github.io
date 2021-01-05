@@ -15,7 +15,7 @@ So, when the class moved beyond cells, I was sad. Later, I talked to my professo
 
 To be honest, **I didn't know being a scientist was a real job**. I only knew scientists from comic books as evil villians or impossibly brilliant scholars. 
 
-The next semester, I took Microbiology and I was sold that studying the life of cells was more than worth my time. ~~Maybe I am a brilliant scholar.~~ Maybe I am evil villian.[^1]
+The next semester, I took Microbiology and I was sold that studying the life of cells was more than worth my time. ~~Maybe I am a brilliant scholar.~~ Maybe I am evil villian. [^1]
 
 I transferred to [University of Massachusetts Boston](https://www.umb.edu/) and graduated with a BS in Molecular Biology. Summer after graduation, I started a job as a research technician at Harvard Medical School, Department of Systems Biology with [Angela DePace](https://depace.med.harvard.edu/). I took a deep technical dive into learning how a lab operates all while learning more about the transcriptional regulatory elements and their role in development. The DePace lab cultivated my desire to lead my own research, so I decided to go to graduate school at the City University of New York (CUNY). 
 
@@ -26,4 +26,4 @@ Essentially, [bacteria know that it takes a village](https://en.wikipedia.org/wi
 After graduating in 2019, I started my postdoctoral training with [Levi Waldron](https://waldronlab.io/) because I wanted to gain more analytical power in bioinformatics to understand more about microbes, especially bacteria in microbiomes. My desire to learn (and teach) is what motivates me to share my journey from bench to bioinfomatics. 
 
 
-[^1] I later learned that being both an scientist and evil villian is too much of a workload, which is why you can't be both. 
+[^1]: I later learned that being both an scientist and evil villian is too much of a workload, which is why you can't be both. 
