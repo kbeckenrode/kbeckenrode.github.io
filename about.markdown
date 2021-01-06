@@ -6,7 +6,7 @@ permalink: /about/
 
 **My name is Kelly Eckenrode and welcome to "the whole cell"**
 
-I am a microbiologist on a journey to learn bioinfomatics, specifically, while using R. Here, I am documenting my journey. Many biologists want the power to analyze their own data, but it is difficult to make time and learn new tools. I am very privilaged to work with [Levi Waldon](http://github.com/waldronlab) for my post-doc so I can finally learn more about data, how to work with it and what to do with it.
+I am a microbiologist on a journey to learn bioinfomatics (specifically, using R). Here, I am documenting my journey. Many biologists want the power to analyze their own data, but it is difficult to make time and learn new tools. I am very privilaged to work with [Levi Waldon](http://github.com/waldronlab) for my post-doc so I can finally learn more about data, how to work with it and what to do with it.
 
 **I like learning about bacteria**
 
