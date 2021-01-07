@@ -10,7 +10,7 @@ I am a microbiologist on a journey to learn bioinfomatics (specifically, using R
 
 **I like learning about bacteria**
 
-I think they are funny. Being incredibly small and outnumbering humans, they maintain their mysterious status. Bacteria come in many varieties of shapes, sizes, arrangements, communities, and produce an staggering array of metabolites and proteins. Why such a diversity? Why are bacteria so important? What is the role of bacteria in healthy human function? In human development? 
+I think they are funny. Being incredibly small and outnumbering humans, they somehow maintain their mysterious status. Bacteria come in many varieties of shapes, sizes, arrangements, communities, and produce an staggering array of metabolites and proteins. Why such a diversity? Why are bacteria so important? What is the role of bacteria in healthy human function? In human development? 
 
 Come along and learn with me!
 
