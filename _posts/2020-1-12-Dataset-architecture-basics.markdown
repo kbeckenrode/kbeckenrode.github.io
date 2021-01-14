@@ -6,8 +6,6 @@ category: data basics
 
 ---
 
-![Tidy life is a happy life](https://unsplash.com/photos/6CszxGveP8U)
-
 In bioinformatic research, databases place a vital role in analysis efforts. Whether it’s sequence data, patient data, 
 taxonomic IDs--all of this information is organized and structured in some form of a database, data pool, data lake, long text files, JSON, XML, and so on. 
 What is the difference between all these data architectures? A little thing called structure.
