@@ -10,13 +10,16 @@ In bioinformatic research, databases place a vital role in analysis efforts. Whe
 taxonomic IDs--all of this information is organized and structured in some form of a database, data pool, data lake, long text files, JSON, XML, and so on. 
 What is the difference between all these data architectures? A little thing called structure.
 
+
+Data is made of values: either number (*quantitative*) and/or strings (*qualitative*), and values can be arranged in few typical ways. 
+Let’s define the 3 different types of data organization:
+
+
 ![Photo by Fiona Smallwood on Unsplash](https://kbeckenrode.github.io/assets/images/tidy.jpg)
 
 *Tidy life, tidy data? Photo by Fiona Smallwood on Unsplash*
 
 
-Data is made of values: either number (*quantitative*) and/or strings (*qualitative*), and values can be arranged in few typical ways. 
-Let’s define the 3 different types of data organization:
 
 **Structured** means data is organized in a table and a relationship exists between rows and columns. Structured data requires a data model, 
 which is a set of consistent rules for storage, arrangement, and access. The most common examples of structured data are Excel and SQL spreadsheets. 
