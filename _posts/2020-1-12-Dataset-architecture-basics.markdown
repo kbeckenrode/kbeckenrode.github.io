@@ -6,7 +6,7 @@ category: data basics
 
 ---
 
-In bioinformatic research, databases place a vital role in analysis efforts. Whether it’s sequence data, patient data, 
+In bioinformatic research, databases play a vital role in analysis efforts. Whether it’s sequence data, patient data, 
 taxonomic IDs---all of this information is organized and structured in some form of a database, data pool, data lake, long text files, JSON, XML, and so on. 
 What is the difference between these data architectures? A little thing called structure.
 
