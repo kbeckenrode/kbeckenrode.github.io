@@ -24,13 +24,13 @@ Let’s define the 3 different types of data organization:
 **Structured** means data is organized in a table and a relationship exists between rows and columns. Structured data requires a data model, 
 which is a set of consistent rules for storage, arrangement, and access. The most common examples of structured data are Excel and SQL spreadsheets. 
 
-Data architecture jargon for “structured data”: [database](https://en.wikipedia.org/wiki/Database), [data warehouse](https://en.wikipedia.org/wiki/Data_warehouse)
+Data architecture jargon for **structured data**: [database](https://en.wikipedia.org/wiki/Database), [data warehouse](https://en.wikipedia.org/wiki/Data_warehouse)
 
 **Unstructured** data refers to information without a data model---or in other words: does not fit into a spreadsheet. 
 Unstructured data can still have some structure, but if it’s not physically organized and ready for analysis, then it is called unstructured. 
 The most common examples of unstructured data are pictures, video, and log files. Even social media posts. 
 
-Data architecture jargon for “unstructured data”: [data lake](https://en.wikipedia.org/wiki/Data_lake), [data pool](https://liliendahl.com/2018/04/21/data-pool-vs-data-lake/)
+Data architecture jargon for **unstructured data**: [data lake](https://en.wikipedia.org/wiki/Data_lake), [data pool](https://liliendahl.com/2018/04/21/data-pool-vs-data-lake/)
 
 **Semi-structured** data does not conform to either structured or unstructured architectures, but have qualities of both. It has some aspects of structure,
 like separated by commas, or other elements to note organization. The most common examples of semi-structured data are [XML](https://en.wikipedia.org/wiki/XML) 
