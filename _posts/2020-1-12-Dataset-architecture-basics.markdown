@@ -7,11 +7,11 @@ category: data basics
 ---
 
 In bioinformatic research, databases place a vital role in analysis efforts. Whether it’s sequence data, patient data, 
-taxonomic IDs--all of this information is organized and structured in some form of a database, data pool, data lake, long text files, JSON, XML, and so on. 
-What is the difference between all these data architectures? A little thing called structure.
+taxonomic IDs---all of this information is organized and structured in some form of a database, data pool, data lake, long text files, JSON, XML, and so on. 
+What is the difference between these data architectures? A little thing called structure.
 
 
-Data is made of values: either number (*quantitative*) and/or strings (*qualitative*), and values can be arranged in few typical ways. 
+Data is made of values: number (*quantitative*) and/or strings (*qualitative*), and values can be arranged in few typical ways. 
 Let’s define the 3 different types of data organization:
 
 
@@ -26,15 +26,16 @@ which is a set of consistent rules for storage, arrangement, and access. The mos
 
 Data architecture jargon for “structured data”: [database](https://en.wikipedia.org/wiki/Database), [data warehouse](https://en.wikipedia.org/wiki/Data_warehouse)
 
-**Unstructured** data refers to information without a data model--or in other words: does not fit into a spreadsheet. 
-Unstructured data can still have some structure, but if it’s not physically organized in a way to help perform analytics, then it is called unstructured. 
+**Unstructured** data refers to information without a data model---or in other words: does not fit into a spreadsheet. 
+Unstructured data can still have some structure, but if it’s not physically organized and ready for analysis, then it is called unstructured. 
 The most common examples of unstructured data are pictures, video, and log files. Even social media posts. 
 
 Data architecture jargon for “unstructured data”: [data lake](https://en.wikipedia.org/wiki/Data_lake), [data pool](https://liliendahl.com/2018/04/21/data-pool-vs-data-lake/)
 
-**Semi-structured** data does not conform to either structured or unstructured architectures, but have qualities of both. While having some structures,
+**Semi-structured** data does not conform to either structured or unstructured architectures, but have qualities of both. It has some aspects of structure,
 like separated by commas, or other elements to note organization. The most common examples of semi-structured data are [XML](https://en.wikipedia.org/wiki/XML) 
 (eXtensible markup language) and [JSON](https://en.wikipedia.org/wiki/JSON) (JavaScript Object Notation). Both of these formats are human-readable and machine-readable to store data arrays. 
+
 
 As a bench scientist, I took data architecture and management for granted. When I started creating my own database, I quickly appreciated that 
 database creation demands respect and careful consideration. Here are some basic universal principles for database creation. 
@@ -48,11 +49,12 @@ database creation demands respect and careful consideration. Here are some basic
     
     c. Every cell is a single value. 
   
-2. Use domain lanuugage standards. Meaning, don't invent new terms to describe well-established words. For establishing a standard vocubulary, consider using an [ontology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230227/).
+2. Use domain language standards. Meaning, don't invent new terms to describe well-established ideas. For establishing a standard vocubulary, consider using an [ontology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230227/).
 
 3. Making a database is a process. Formatting the data will only illuminate new problems, so you reformat and find new problems, and so on. Be patient.
 
-4. Understand how the database will be used. By who? For what application? What kind of analysis will users perform?
+4. Understand how the database will be used. By who? For what application? What kind of analysis will users perform? Answers to these questions will help guide 
+your building. 
 
 5. Zero and missing values are valuable. If you have [large sparse data](https://cran.r-project.org/web/packages/SparseM/vignettes/SparseM.pdf), you may need to develop a different plan for storage and processing. 
 
