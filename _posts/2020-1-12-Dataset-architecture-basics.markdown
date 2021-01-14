@@ -42,12 +42,19 @@ database creation demands respect and careful consideration. Here are some basic
     
     c. Every cell is a single value. 
   
-2. Making a database is a process. Formatting the data will only illuminate new problems, so you reformat and find new problems, and so on. Be patient.
-3. Understand how the database will be used. By who? For what application? What kind of analysis will users perform?
-4. Zero and missing values are valuable. If you have [large sparse data](https://cran.r-project.org/web/packages/SparseM/vignettes/SparseM.pdf), you may need to develop a different plan for storage and processing. 
-5. Remember, what you put into your database is what will come out: diamonds in, diamonds out;  garbage in, garbage out.
-6. If you are not using version control, make sure to create backups. 
-7. Don’t forget to document your process. The notes on how you created the database will be vital for users and anyone needing to work on the dataset.
+2. Use domain lanuugage standards. Meaning, don't invent new terms to describe well-established words. For establishing a standard vocubulary, consider using an [ontology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230227/).
+
+3. Making a database is a process. Formatting the data will only illuminate new problems, so you reformat and find new problems, and so on. Be patient.
+
+4. Understand how the database will be used. By who? For what application? What kind of analysis will users perform?
+
+5. Zero and missing values are valuable. If you have [large sparse data](https://cran.r-project.org/web/packages/SparseM/vignettes/SparseM.pdf), you may need to develop a different plan for storage and processing. 
+
+6. Remember, what you put into your database is what will come out: diamonds in, diamonds out;  garbage in, garbage out.
+
+7. If you are not using version control, make sure to create backups.
+
+8. Don’t forget to document your process. The notes on how you created the database will be vital for users and anyone needing to work on the dataset.
 
 If you are using R, [tidyr helps create clean and clear datasets](https://tidyr.tidyverse.org/). For more information on 
 [Tidy Data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html), especially to read more about the #1 rule above, follow the link 
