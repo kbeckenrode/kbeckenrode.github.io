@@ -57,3 +57,5 @@ database creation demands respect and careful consideration. Here are some basic
 If you are using R, [tidyr helps create clean and clear datasets](https://tidyr.tidyverse.org/). For more information on 
 [Tidy Data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html), especially to read more about the #1 rule above, follow the link 
 [Here is the full Tidy data paper](https://vita.had.co.nz/papers/tidy-data.html).
+
+![](https://github.com/kbeckenrode/kbeckenrode.github.io/blob/main/assets/images/fiona-smallwood-6CszxGveP8U-unsplash.jpg)
