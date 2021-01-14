@@ -10,6 +10,11 @@ In bioinformatic research, databases place a vital role in analysis efforts. Whe
 taxonomic IDs--all of this information is organized and structured in some form of a database, data pool, data lake, long text files, JSON, XML, and so on. 
 What is the difference between all these data architectures? A little thing called structure.
 
+![Photo by Fiona Smallwood on Unsplash](https://github.com/kbeckenrode/kbeckenrode.github.io/blob/main/assets/images/fiona-smallwood-6CszxGveP8U-unsplash%20(1).jpg)
+
+*Tidy life, tidy data? Photo by Fiona Smallwood on Unsplash*
+
+
 Data is made of values: either number (*quantitative*) and/or strings (*qualitative*), and values can be arranged in few typical ways. 
 Let’s define the 3 different types of data organization:
 
@@ -58,4 +63,3 @@ If you are using R, [tidyr helps create clean and clear datasets](https://tidyr.
 [Tidy Data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html), especially to read more about the #1 rule above, follow the link 
 [Here is the full Tidy data paper](https://vita.had.co.nz/papers/tidy-data.html).
 
-![](https://github.com/kbeckenrode/kbeckenrode.github.io/blob/main/assets/images/fiona-smallwood-6CszxGveP8U-unsplash.jpg)
