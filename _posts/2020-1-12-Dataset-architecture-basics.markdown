@@ -10,7 +10,7 @@ In bioinformatic research, databases place a vital role in analysis efforts. Whe
 taxonomic IDs--all of this information is organized and structured in some form of a database, data pool, data lake, long text files, JSON, XML, and so on. 
 What is the difference between all these data architectures? A little thing called structure.
 
-![Photo by Fiona Smallwood on Unsplash](https://github.com/kbeckenrode/kbeckenrode.github.io/blob/main/assets/images/tidy.jpg)
+![Photo by Fiona Smallwood on Unsplash](https://kbeckenrode.github.io/assets/images/tidy.jpg)
 
 *Tidy life, tidy data? Photo by Fiona Smallwood on Unsplash*
 
